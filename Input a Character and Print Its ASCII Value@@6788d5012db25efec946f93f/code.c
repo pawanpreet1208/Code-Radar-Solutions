@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main() {
-    char alphabet;
+    char ch;
 
-    scanf("%c",&alphabet);
-    printf("ASCII value: '%c'is %d",alphabet,alphabet);
+    scanf("%c",&ch);
+    printf("ASCII value: '%c'is %d",ch,ch);
     return 0;
 }
