@@ -2,9 +2,7 @@
 
 int main() {
   char alphabet='A';
-  scanf("%c",&alphabet);
-  printf("You entered:");
-
-    
+  scanf("%c",$alphabet);
+  printf("")  
     return 0;
 }
