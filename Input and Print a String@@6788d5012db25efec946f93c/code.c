@@ -2,10 +2,10 @@
 
 int main() {
     
-    char abc;
+    char str;
 
-    scanf("%c",&abc);
-    printf("You entered: %c",abc);
+    scanf("%s",&abc);
+    printf("You entered: %s",abc);
     
     return 0;
 }
