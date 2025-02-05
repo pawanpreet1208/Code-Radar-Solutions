@@ -2,9 +2,9 @@
 
 int main(){
 
-  int a b;
+  int a,b;
 
-  scanf("%d",&a b);
+  scanf("%d",&a,b);
   printf("sum: %d",a+b);
     return 0;
 }
