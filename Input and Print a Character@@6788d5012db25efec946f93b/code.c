@@ -3,6 +3,6 @@
 int main() {
   char alphabet='A';
   scanf("%c",$alphabet);
-  printf("")  
+  printf("You entred:",%c) 
     return 0;
 }
