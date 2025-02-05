@@ -2,9 +2,9 @@
 
 int main() {
     
-    char abc;
+    char str;
 
-    scanf("%c",&abc);
-    printf("You entered: &c",abc);
+    scanf("%c",&str);
+    printf("You entered: %c",str);
     return 0;
 }
