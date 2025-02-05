@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 int main() {
-    float a,b;
+    float a,b,;
 
-    scanf("%F",&a);
-    scanf("%F",&b);
-    printf("Product: %F",a*b);
+    scanf("%f",&a);
+    scanf("%f",&b);
+    printf("Product: %2f",a*b);
     return 0;
 }
