@@ -2,7 +2,8 @@
 
 int main() {
     char str1,str2;
-    scanf("%s",&str1,str2);
-    printf("You entered: %s",str1andstr2);
+    scanf("%s",&str1);
+    scanf("%s",&str2);
+    printf("You entered: %s",str1,str2);
     return 0;
 }
