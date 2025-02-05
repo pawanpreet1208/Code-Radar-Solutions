@@ -6,5 +6,6 @@ int main() {
 
     scanf("%c",&abc);
     printf("You entered: %c",abc);
+    
     return 0;
 }
