@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 int main() {
-   int a,b,c;
-   float Average;
+   int a,b,c
    scanf("%d",&a,b,c);
    printf("Average: %.2f",a+b+c/3.0);
     return 0;
