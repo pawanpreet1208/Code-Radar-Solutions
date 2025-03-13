@@ -8,7 +8,7 @@ int main(){
     }
     else(a & 0){
         printf("Not Set");
-        return 0;
     }
+    return 0;
 
 }
