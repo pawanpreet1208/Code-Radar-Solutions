@@ -2,11 +2,11 @@
 #include<stdio.h>
 int main(){
     char ch;
-    scanf("%s",&ch);
-    if(97<=ch<=122){
+    scanf("%c",&ch);
+    if('a'<=ch<='z'){
         printf("Lowercase");
     }
-    else if(65<=ch<=91){
+    else if('A'5<=ch<'Z'){
         printf("Uppercase");
     }
     else{
